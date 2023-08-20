@@ -1,0 +1,10 @@
+.staff-map{
+    width: 90vw;
+    height: 90vh;
+}
+
+.staf-map__baloon p {
+    font-size: 18px;
+    font-weight: 700;
+    color: red;
+}
